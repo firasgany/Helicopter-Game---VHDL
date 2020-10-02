@@ -6,10 +6,13 @@ Youtube Link:
 
 ![helicopter game](Images/Helicopter_Game.png)
 
+![helicopter game](Images/IO.png)
+
+
 This is the block diagram of the game:
 ![helicopter game](Images/TOP_Schematic.png)
 
-TOP screenshot from Quartus:
-![helicopter game](Images/TOP.png)
+Segmentaiton of the TOP (from Quartus):
+![helicopter game](Images/TOP_SEGMENTED.png)
 
 
