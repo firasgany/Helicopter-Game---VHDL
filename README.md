@@ -6,6 +6,7 @@ Youtube Link:
 
 ![helicopter game](Images/Helicopter_Game.png)
 
+Main Components that were used in the Project:
 ![helicopter game](Images/IO.png)
 
 
